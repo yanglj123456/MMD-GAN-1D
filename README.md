@@ -1,0 +1,2 @@
+# MMD-GAN-1D
+Using MMD-GAN to learn simple 1-D distribution from noise. The description of the MMD-GAN network can be found by this [paper](http://www.cs.cmu.edu/~chunlial/docs/dltp17gan.pdf). The implement of MMD can be found [here](https://github.com/OctoberChang/MMD-GAN).
